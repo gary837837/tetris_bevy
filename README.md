@@ -1,3 +1,8 @@
+# Tetris
+
+## About
+Tetris making with [bevy](https://bevyengine.org/)
+
 ## Control
 - Move: Arrow Key
 - Rotate: Q, E
